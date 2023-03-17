@@ -1,0 +1,15 @@
+POST http://localhost:4000/api/book
+Content-Type: application/json
+
+{
+    "firstName":"xxhh",
+    "lastName":"Moti",
+    "email":"mo@gil.com",
+    "fromAirport":"A",
+    "toAirport":"B",
+    "company":"vzi",
+    "dateOfDeparture":"31/12/2022",
+    "password":"test1",
+    "passwordConfirmed":"test1"
+
+}
